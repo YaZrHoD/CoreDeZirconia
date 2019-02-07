@@ -1,0 +1,13 @@
+name: core de zirconia
+main: YaZrHoD\Zirconium
+api: [3.0.0,4.0.0]
+version: 1.0
+author: YaZrHoD
+description: Core
+
+commands:
+
+  discord:
+    description: "-Discord-"
+  boutique:
+    description: "-Boutique-"
